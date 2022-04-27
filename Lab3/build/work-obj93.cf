@@ -1,0 +1,7 @@
+v 4
+file . "../tb/sequential_tb.vhd" "cbb88c1d6c8ce0e528d4b3a95cd4b3a5a415466b" "20220421183106.238":
+  entity sequential_tb at 1( 0) + 0 on 63;
+  architecture bench of sequential_tb at 8( 107) + 0 on 64;
+file . "../rtl/sequential.vhd" "dddf5d1e56d5c2e2e402f6dc649509d7c9147101" "20220421180936.961":
+  entity sequential at 1( 0) + 0 on 57;
+  architecture rtl of sequential at 17( 269) + 0 on 58;

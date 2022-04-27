@@ -1,0 +1,87 @@
+$date
+  Thu Apr 14 17:57:55 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module tb_msi $end
+$var reg 4 ! a[3:0] $end
+$var reg 2 " o[1:0] $end
+$var reg 1 # v $end
+$scope module priority_enc_inst $end
+$var reg 4 $ a[3:0] $end
+$var reg 2 % o[1:0] $end
+$var reg 1 & v $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b00 "
+0#
+b0000 $
+b00 %
+0&
+#10000000
+b0001 !
+1#
+b0001 $
+1&
+#20000000
+b0010 !
+b01 "
+b0010 $
+b01 %
+#30000000
+#40000000
+b0011 !
+b0011 $
+#50000000
+b0100 !
+b10 "
+b0100 $
+b10 %
+#60000000
+b0101 !
+b0101 $
+#70000000
+b0110 !
+b0110 $
+#80000000
+b0111 !
+b0111 $
+#90000000
+b1000 !
+b11 "
+b1000 $
+b11 %
+#100000000
+b1001 !
+b1001 $
+#110000000
+b1010 !
+b1010 $
+#120000000
+b1011 !
+b1011 $
+#130000000
+b1100 !
+b1100 $
+#140000000
+b1101 !
+b1101 $
+#150000000
+b1110 !
+b1110 $
+#160000000
+b1111 !
+b1111 $

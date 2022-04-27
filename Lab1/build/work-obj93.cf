@@ -1,0 +1,13 @@
+v 4
+file . "../tb/tb_ssi.vhd" "5632908b53e444e7ecc147f0be68d7296b3156a0" "20220403095358.585":
+  entity tb_ssi at 1( 0) + 0 on 29;
+  architecture bench of tb_ssi at 8( 93) + 0 on 30;
+file . "../rtl/nand_gate.vhd" "0c33bbca751b7e06c9b87055fb366df5ee133146" "20220403091757.358":
+  entity nand_gate at 1( 0) + 0 on 11;
+  architecture rtl of nand_gate at 14( 223) + 0 on 12;
+file . "../rtl/xor_gate.vhd" "02d8d7bc9063662ce9c035a67639e7803343203b" "20220403095358.538":
+  entity xor_gate at 1( 0) + 0 on 27;
+  architecture rtl of xor_gate at 14( 222) + 0 on 28;
+file . "../rtl/xnor_gate.vhd" "a552a24ad64bb6fd5f29cdcbaaea1e1b82f3dbb4" "20220403095208.165":
+  entity xnor_gate at 1( 0) + 0 on 23;
+  architecture rtl of xnor_gate at 15( 225) + 0 on 24;
